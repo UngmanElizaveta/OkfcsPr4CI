@@ -1,0 +1,12 @@
+C:\pr31_ungman\GeometryShape2\bin\Debug\net8.0\GeometryShape2.deps.json
+C:\pr31_ungman\GeometryShape2\bin\Debug\net8.0\GeometryShape2.dll
+C:\pr31_ungman\GeometryShape2\bin\Debug\net8.0\GeometryShape2.pdb
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.GeneratedMSBuildEditorConfig.editorconfig
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.AssemblyInfoInputs.cache
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.AssemblyInfo.cs
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.csproj.CoreCompileInputs.cache
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.sourcelink.json
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.dll
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\refint\GeometryShape2.dll
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\GeometryShape2.pdb
+C:\pr31_ungman\GeometryShape2\obj\Debug\net8.0\ref\GeometryShape2.dll
