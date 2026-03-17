@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\pr31_ungman\\GeometryShape2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{222E6E9E-6993-49EC-8DD5-46987B71156C}|..\\GeometryShapeTests2\\GeometryShapeTests2.csproj|c:\\pr31_ungman\\geometryshapetests2\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{222E6E9E-6993-49EC-8DD5-46987B71156C}|..\\GeometryShapeTests2\\GeometryShapeTests2.csproj|c:\\pr31_ungman\\geometryshapetests2\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,19 +37,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TriangleTest.cs",
+              "DocumentMoniker": "C:\\pr31_ungman\\GeometryShapeTests2\\TriangleTest.cs",
+              "RelativeDocumentMoniker": "..\\GeometryShapeTests2\\TriangleTest.cs",
+              "ToolTip": "C:\\pr31_ungman\\GeometryShapeTests2\\TriangleTest.cs",
+              "RelativeToolTip": "..\\GeometryShapeTests2\\TriangleTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:19:48.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RectangleTest.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\GeometryShapeTests2\\RectangleTest.cs",
               "RelativeDocumentMoniker": "..\\GeometryShapeTests2\\RectangleTest.cs",
               "ToolTip": "C:\\pr31_ungman\\GeometryShapeTests2\\RectangleTest.cs",
               "RelativeToolTip": "..\\GeometryShapeTests2\\RectangleTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T16:58:40.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\GeometryShape2\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
@@ -58,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\GeometryShape2\\Triangle.cs",
               "RelativeDocumentMoniker": "Triangle.cs",
@@ -70,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\GeometryShape2\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
